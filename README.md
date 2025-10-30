@@ -45,12 +45,12 @@ Cada opção aciona uma parte da lógica:
 
 1. **Clone este repositório:**
    ```bash
-   git clone https://github.com/seu-usuario/porquinho-bank.git
-   cd porquinho-bank
+   git clone https://github.com/caiqso/projeto-bancario-em-python.git
+   cd projeto-bancario-em-python
    
 2. **Execute o Script:**
    ```bash
-   python porquinho_bank.py
+   python projeto-bancario-em-python.py
    
 3. **Interaja com o Menu e divirta-se!**
 
